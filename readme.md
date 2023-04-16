@@ -420,5 +420,4 @@ int main(){
 
 計算複利的公式為：s = p * (1 + r)^n，因此需要使用pow()函數來計算次方。
 
-使用pow()函數計算本利和s，最後使用cout輸出並使用setprecision()函數設定精度為0位
-"# ITSA_15-24" 
+使用pow()函數計算本利和s，最後使用cout輸出並使用setprecision()函數設定精度為0位。
